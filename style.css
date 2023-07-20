@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h5,h6 {
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    line-height: 0.8;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h3,
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    color: #363958;
+    font-weight: 700;
+}
+
+.btn-colorful {
+    color: white;
+    background: #3D4FF3;
+    width: 110px;
+    height: 50px;
+
+}
+
+.btn-colorful2 {
+    color: white;
+    background: #3D4FF3;
+
+}
+
+.header-section {
+    background-color: #FFF9F4;
+    height: 100%;
+    padding-left: 92px;
+    padding-right: 20px;
+}
+
+.nav-link {
+    margin-left: 40px;
+    font-weight: 500;
+}
+
+.header-main img {
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.orange-highlighter {
+    color: #FA804C;
+}
+
+.header-main-paragraph {
+    width: 300px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.penguin-card {
+    border: 0;
+    padding: 2% 15%;
+}
+
+.penguin-card img {
+    height: 310px;
+    width: 100%;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+
+.penguin-card2 {
+    border: 0;
+    padding: 2% 15%;
+}
+
+.penguin-card2 img {
+    height: 310px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.card-body {
+    margin-top: 20px;
+    padding: 0;
+}
+
+.penguin-card-footer {
+    background-color: white;
+    border: 0;
+    padding: 0;
+}
+
+.penguin-card-footer button {
+    margin-left: auto;
+}
+
+#about {
+    margin-bottom: 40px;
+}
+
+.about-logo img {
+    height: 70px;
+    margin: 16px;
+
+    
+}
+
+.about-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.contact-form {
+    margin: auto;
+}
+
+.btn-color-2 {
+    background: #3D4FF3;
+    color: white;
+}
+
+#contact {
+    background: #db764a;
+    margin-top: 40px;
+}
